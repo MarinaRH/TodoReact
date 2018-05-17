@@ -1,7 +1,7 @@
 {
-  "name": "BuyTicket",
+  "name": "MemoryReact",
   "version": "1.0.0",
-  "description": "- Desarrollar una interface que permita realizar la compra de tickets  para eventos de tipo teatro considerando que los escenarios pueden tener mas de un piso.",
+  "description": "- Juego de memoria.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarinaRH/BuyTicket.git"
+    "url": "git+https://github.com/MarinaRH/MemoryReact.git"
   },
   "keywords": [],
   "author": "Marina Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarinaRH/BuyTicket/issues"
+    "url": "https://github.com/MarinaRH/MemoryReact/issues"
   },
-  "homepage": "https://github.com/MarinaRH/BuyTicket#readme",
+  "homepage": "https://github.com/MarinaRH/MemoryReact#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.3",
