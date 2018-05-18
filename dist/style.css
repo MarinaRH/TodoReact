@@ -1,20 +1,9 @@
 body{
-  color: white;
-  background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   color: white;
+   background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
   
-}
-
-div.cards {
-  width: 20%;
-  height: 250px;
-  background-image: url(https://lacajadepandra.files.wordpress.com/2009/06/joker-cards-cartoon-heart.jpg?w=181&h=300);
-  background-size: 100% 100%;
-  border: 1px solid black;
-  display: inline-flex;
-  margin: auto 2%;
-}
-
-img {
-  width: 100%;
-  height: 100%;
+.App {
+  text-align: center; 
 }
