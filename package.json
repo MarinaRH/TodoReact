@@ -1,7 +1,7 @@
 {
-  "name": "MemoryReact",
+  "name": "todoReact",
   "version": "1.0.0",
-  "description": "- Juego de memoria.",
+  "description": "- todo de tareas.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarinaRH/MemoryReact.git"
+    "url": "git+https://github.com/MarinaRH/TodoReact.git"
   },
   "keywords": [],
   "author": "Marina Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarinaRH/MemoryReact/issues"
+    "url": "https://github.com/MarinaRH/TodoReact/issues"
   },
-  "homepage": "https://github.com/MarinaRH/MemoryReact#readme",
+  "homepage": "https://github.com/MarinaRH/TodoReact#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.3",
